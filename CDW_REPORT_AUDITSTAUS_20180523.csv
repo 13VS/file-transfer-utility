@@ -1,0 +1,3 @@
+partnerid,region,report name,creation_ts,sent_ts,status
+AS0005,emea,REPORT_ww-AS0005_201823080514.xlsx,2018-05-23 17:36:10.097241,2018-05-23 17:39:54.208519,report generated
+AS0008,emea,na,na,na,report not generated
